@@ -6,6 +6,7 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
 
 
+
 We provide our implementation and pretrained models as open source in this repository.
 
 
@@ -31,7 +32,7 @@ Here we list the capability of AudioGPT at this time. More supported models and 
 
 ### Sing
 
-|           Task            |   Supported Foundation Models   | Status |
+|           Task            |    Supported Foundation Models   | Status |
 |:-------------------------:|:-------------------------------:|:------:|
 |       Text-to-Sing        |         [DiffSinger](), [VISinger]()          |  Yes (WIP)   |
 
